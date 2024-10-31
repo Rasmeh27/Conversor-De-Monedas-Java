@@ -48,8 +48,10 @@ Utiliza la librería [Gson](https://github.com/google/gson) para procesar la res
 
 ### Ejemplo de Salida
 
-![image](https://github.com/user-attachments/assets/38843e38-f677-49bb-b2b8-b6cf2e675488)
-![image](https://github.com/user-attachments/assets/d47b47d8-9d84-4dab-86bf-8bebbd5a8e6f)
+![image](https://github.com/user-attachments/assets/7f744d84-d6bb-47b0-b804-c9cf16c0be49)
+
+![image](https://github.com/user-attachments/assets/b34233fd-3fc2-4d84-97ae-ae79bc2f96ad)
+
 
 ## API Utilizada
 
